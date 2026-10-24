@@ -1,0 +1,80 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Details - CampusStay SL</title>
+<link rel="stylesheet" href="style.css">
+<style>
+.gallery { display:grid; grid-template-columns:2fr 1fr; gap:1rem; }
+.gallery-main { height:400px; border-radius:12px; background:url('https://images.unsplash.com/photo-1522708323590-d24dbb6b0267') center/cover; }
+.gallery-thumbs { display:grid; grid-template-columns:1fr 1fr; gap:0.5rem; }
+.thumb { height:95px; background:#ddd; border-radius:8px; background-size:cover; }
+@media(max-width:768px){ .gallery{grid-template-columns:1fr;} }
+</style>
+</head>
+<body>
+<nav class="navbar">
+  <div class="logo">CampusStay SL</div>
+  <ul class="nav-links">
+    <li><a href="index.html">Home</a></li>
+    <li><a href="listings.html">Listings</a></li>
+    <li><a href="about.html">About</a></li>
+    <li><a href="contact.html">Contact</a></li>
+    <li><a href="contact.html" class="btn">List Property</a></li>
+  </ul>
+</nav>
+
+<div class="container">
+  <div class="details-layout">
+    <div>
+      <div class="gallery">
+        <div class="gallery-main"></div>
+        <div class="gallery-thumbs">
+          <div class="thumb" style="background-image:url('https://images.unsplash.com/photo-1502672023488-70e25813eb80')"></div>
+          <div class="thumb" style="background-image:url('https://images.unsplash.com/photo-1560448204-e02f11c3d0e2')"></div>
+          <div class="thumb" style="background-image:url('https://images.unsplash.com/photo-1560518883-ce09059eeffa')"></div>
+          <div class="thumb" style="background-image:url('https://images.unsplash.com/photo-1484154218962-a197022b5858')"></div>
+        </div>
+      </div>
+
+      <div style="margin-top:2rem; background:white; padding:1.5rem; border-radius:12px;">
+        <h2>Self-Contain at Hill Station - Near Limkokwing</h2>
+        <p>Property ID: #CSL-10234 | Posted: 05 Oct 2024 | Available From: 01 Nov 2024</p>
+        <p style="margin-top:1rem;">Spacious self-contain with water, light, kitchen, toilet. Safe area with 24/7 security. 1.2km from Limkokwing University, 5 min walk. Perfect for Fatmata Sesay persona (2nd year ICT student).</p>
+        
+        <h3 style="margin-top:1.5rem;">Description</h3>
+        <p>Property Overview: 1 bedroom, self-contain, tiled floor, ceiling fan, wardrobe. Water 24/7, Electricity with backup.</p>
+        
+        <h3 style="margin-top:1.5rem;">Facilities Section</h3>
+        <p>✅ WiFi - High-speed internet | ✅ Laundry - On-site | ✅ Kitchen - Shared access | ✅ Water - 24/7 supply | ✅ Security - 24/7 CCTV</p>
+        
+        <h3 style="margin-top:1.5rem;">Security & Campus Proximity</h3>
+        <p>Distance to Limkokwing: 1.2km (5 min walk) | Transport Cost: Approx. NLe 10 by podapoda | Safety Rating: ⭐ 4.8/5 - Safe Area | Bus Stop 0.2km | Pharmacy 0.5km</p>
+        
+        <h3 style="margin-top:1.5rem;">Student Reviews</h3>
+        <p>⭐⭐⭐⭐⭐ 4.8/5 (12 reviews)<br>"Very safe and close to campus. Landlord is responsive." - John Doe, ICT<br>"Good water and light. Recommended for new students." - Fatmata S.</p>
+        <button class="btn" style="margin-top:1rem;">Add Review</button>
+
+        <div class="map" style="margin-top:1.5rem;">Google Map Embed: Hill Station, Freetown<br>Address, Nearby amenities, Location & Contact</div>
+      </div>
+    </div>
+
+    <div>
+      <div class="price-box">
+        <h3>NLe 3000 / month</h3>
+        <p>Total Fees: Service Fee NLe 200 + Deposit NLe 1000 = NLe 4200 first payment</p>
+        <hr style="margin:1rem 0;">
+        <p><strong>Landlord:</strong> Mr. Kamara<br>Profile Photo | Usually responds within 1 hour</p>
+        <button class="btn" style="width:100%; margin-top:1rem;">Contact Landlord - Message</button>
+        <button class="btn" style="width:100%; margin-top:0.5rem; background:#25D366;">WhatsApp: +232 77 123 456</button>
+        <button class="btn" style="width:100%; margin-top:0.5rem; background:#333;">Call: +232 77 123 456</button>
+        <h4 style="margin-top:1.5rem;">Similar Properties (3 Cards Horizontal)</h4>
+        <p>Card 1: Single - NLe 1500 - Jui<br>Card 2: Shared - NLe 2000 - Congo<br>Card 3: Self-Contain - NLe 3200 - Hill Station</p>
+      </div>
+    </div>
+  </div>
+</div>
+<footer><p>Details Page - Major Feature | DCOMP 204 Assignment 2 | 20 marks for CSS Styling</p></footer>
+</body>
+</html>
