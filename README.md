@@ -1,5 +1,5 @@
-# CampusStay-SL_DCOMP204_Assignment-2
-markdown# CampusStay SL - Student Accommodation Platform
+
+# CampusStay SL - Student Accommodation Platform
 ## DCOMP 204: Web Design - Assignment 2
 
 **LIMKOKWING UNIVERSITY OF CREATIVE TECHNOLOGY - SIERRA LEONE**
