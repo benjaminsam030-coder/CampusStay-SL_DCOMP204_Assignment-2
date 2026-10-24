@@ -167,7 +167,21 @@ Name: Fatmata Sesay, Age: 21, Programme: 2nd Year ICT, University: Limkokwing Un
 - Design Inspiration: Airbnb, Jumia House Sierra Leone
 - W3Schools for HTML/CSS reference
 
----
+
+<img width="1349" height="1416" alt="image" src="https://github.com/user-attachments/assets/d39ff5e7-516b-4591-8823-0db885e6b299" />
+
+<img width="1349" height="1435" alt="image" src="https://github.com/user-attachments/assets/9307548e-5d55-4ce2-900d-88f7ee2575f5" />
+
+<img width="1349" height="700" alt="image" src="https://github.com/user-attachments/assets/a2480cf5-21a4-45c6-9317-7bf8e2851656" />
+
+<img width="1349" height="1230" alt="image" src="https://github.com/user-attachments/assets/9f0fc3aa-da14-41d3-97ce-cda1f3e0c08a" />
+
+<img width="1349" height="1711" alt="image" src="https://github.com/user-attachments/assets/067ccd60-0e2f-4eb1-a72b-ceb5c39dee95" />
+
+
+
+
+ 
 
 **DECLARATION:** This work is my own original work. All code is written by me for DCOMP 204 Assignment 2. Images are from Unsplash free license.
 
